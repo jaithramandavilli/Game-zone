@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Game-zone/static/css/main.073c9b0a.css",
+    "main.js": "/Game-zone/static/js/main.8460bac0.js",
+    "index.html": "/Game-zone/index.html",
+    "main.073c9b0a.css.map": "/Game-zone/static/css/main.073c9b0a.css.map",
+    "main.8460bac0.js.map": "/Game-zone/static/js/main.8460bac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8460bac0.js"
+  ]
+}
